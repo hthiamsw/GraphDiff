@@ -23,6 +23,6 @@ If you have ever felt the pain of updating a detached graph with one or more nes
         </dependencies>
     </metadata>
     <files>
-        <file src="GraphDiff\bin\Release\RefactorThis.GraphDiff.dll" target="lib\RefactorThis.GraphDiff.dll" />
+        <file src="GraphDiff\bin\RefactorThis.GraphDiff.*" target="lib" />
     </files>
 </package>
