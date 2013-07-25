@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>RefactorThis.GraphDiff</id>
-        <version>2.0.0-beta1</version>
+        <version>2.0.0-beta1a</version>
         <title>GraphDiff - Entity Framework graph auto-update</title>
         <authors>brentmckendrick</authors>
         <owners>brentmckendrick</owners>
@@ -23,6 +23,6 @@ If you have ever felt the pain of updating a detached graph with one or more nes
         </dependencies>
     </metadata>
     <files>
-        <file src="GraphDiff\bin\RefactorThis.GraphDiff.*" target="lib" />
+        <file src="GraphDiff\bin\Release\RefactorThis.GraphDiff.*" target="lib" />
     </files>
 </package>
